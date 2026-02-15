@@ -1,5 +1,8 @@
 # Customer Churn Prediction
 
+## Live App
+https://customer-churn-prediction-hraovbbdkrqw9mnb2jvevj.streamlit.app/
+
 ## Project Overview
 
 This project predicts whether a customer is likely to leave (churn) or stay with a telecom company.
